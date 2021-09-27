@@ -1,0 +1,4 @@
+include ':app', ':common'
+rootProject.name='consmetology'
+include ':test'
+include ':autotest'
