@@ -7,4 +7,9 @@ class AutoTest {
     public fun test(){
 
     }
+
+    @TestOnly
+    fun test2(){
+
+    }
 }
